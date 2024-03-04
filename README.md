@@ -1,0 +1,1 @@
+Assignment week 4 of algorithms and datastructures (ADS). This week we are going to create a program that solves expressions or finds the derivative of this expression with the use of an expression tree.
